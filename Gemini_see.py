@@ -1,0 +1,1 @@
+# Integrate camera input with the Gemini API
