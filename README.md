@@ -1,4 +1,4 @@
-# Gemini Voice Assistant (in development)
+# Gemini Voice Assistant (WIP)
 This project is a voice assistant built using Google Gemini API on a Raspberry Pi.
 
 ## Features
