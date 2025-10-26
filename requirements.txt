@@ -17,13 +17,16 @@ numpy==2.2.0
 opencv-python==4.10.0.84
 proto-plus==1.25.0
 protobuf==5.29.1
+PyAudio==0.2.14
 pyasn1==0.6.1
 pyasn1_modules==0.4.1
 pydantic==2.10.3
 pydantic_core==2.27.1
+pydub==0.25.1
 pyparsing==3.2.0
 pyttsx3==2.98
 requests==2.32.3
+SpeechRecognition==3.14.3
 rsa==4.9
 tqdm==4.67.1
 typing_extensions==4.12.2
