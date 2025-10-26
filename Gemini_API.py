@@ -2,8 +2,8 @@
 from google import genai
 from pathlib import Path
 
-# Read API key from API.txt file
-api_key = Path("API.txt").read_text().strip()
+# Read API key from API_key.txt file
+api_key = Path("API_key.txt").read_text().strip()
 client = genai.Client(api_key=api_key)
 
 response = client.models.generate_content(
